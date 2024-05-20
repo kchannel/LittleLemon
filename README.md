@@ -1,30 +1,26 @@
 # LittleLemon
 
-# Django Admin User:
+1.Django Admin User:
 User: admin
 Email: admin@littlelemon.com
 Password: admin@123
 
-
-# User API:
+2.User API:
 http://127.0.0.1:8000/auth/users/
 
-
-# User login / logout:
+3.User login / logout:
 User: testuser
 Email: test@little.com
 Password: admin@123
 
-# Login urls:
+4.Login urls:
 http://127.0.0.1:8000/auth/token/login/
 
-# Logout urls:
+5.Logout urls:
 http://127.0.0.1:8000/auth/token/logout/
 
-
-#Booking API:
+6.Booking API:
 http://127.0.0.1:8000/restaurant/booking/tables/
 
-
-# Menu API:
+7.Menu API:
 http://127.0.0.1:8000/restaurant/menu/
